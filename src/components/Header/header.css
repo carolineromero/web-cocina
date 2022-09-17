@@ -1,0 +1,39 @@
+
+*{
+    border:0;
+    margin:0;
+}
+
+body{
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(226,226,226,1) 110%);
+}
+
+
+h1{
+    color:white;
+    font-family: 'Jockey One', sans-serif;
+    letter-spacing: 0.1em;
+    font-size: 1.5em;
+}
+
+.logoName{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+
+.headerContainer{
+    list-style: none;
+    display: flex;
+    height: 60px;
+    background-color:#82889E;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+
+}
+.burguer-btn{
+   width:3rem ;
+   padding-right: 1rem;
+}
