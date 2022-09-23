@@ -1,0 +1,2 @@
+export {Anuncio} from './Anuncio'
+ 

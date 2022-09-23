@@ -1,9 +1,28 @@
 import React from 'react'
-import burgerbtn from "../Header/burger.png"
+import BurgerIcon from '../../assets/img/Header/burger.png';
+import LupaIcon from '../../assets/img/Header/lupa.png';
+import { Burger, BurgerLogo, Buscador, HeaderContainer, InputBuscador, Lupan, Text } from './Header.styled'
 
 function Header() {
   return (
-    <div className="headerContainer">
+
+    <HeaderContainer>
+        <BurgerLogo>
+              {/*  <Burger src={BurgerIcon} /> */}
+              <Text>
+                  SOMETHING IS COOKING
+              </Text>
+        </BurgerLogo>
+        <Buscador>
+       
+                <Lupan src={LupaIcon} />
+                <InputBuscador/>
+           
+        </Buscador>
+
+    </HeaderContainer>
+
+ /*    <div className="headerContainer">
       <div className="logoName">
           <img src={burgerbtn} alt="imagen cabecera" className='img-header' />
 
@@ -13,7 +32,7 @@ function Header() {
       </div>
  
     
-    </div>
+    </div> */
 )
 
 }

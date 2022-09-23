@@ -1,0 +1,33 @@
+*{
+    border:0;
+    margin:0;   
+}
+
+body{
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(226,226,226,1) 110%);
+}
+
+h2{
+    color:#596388;
+    font-family: 'Marvel', sans-serif;
+    font-size: 19px;
+    font-weight:bold;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+h3{
+    color:#596388;
+    font-family: 'Marvel', sans-serif;
+    font-size: 19px;
+    font-weight:bold;
+   
+    padding-top: 30px;
+}
+
+hr{
+    display: flex;
+    justify-self: center;
+    width: 100%;
+}

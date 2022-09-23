@@ -1,0 +1,17 @@
+import img01 from '../assets/img/Carrusel/garbanzos.jpg'
+import img02 from '../assets/img/Carrusel/helado.jpg'
+import img03 from '../assets/img/Carrusel/hasselback.jpeg'
+import img04 from '../assets/img/Carrusel/pesto.jpg'
+import img05 from '../assets/img/Carrusel/baklava.jpg'
+import img06 from '../assets/img/Carrusel/galletas.jpeg'
+import img07 from '../assets/img/Carrusel/pizza.jpg'
+import img08 from '../assets/img/Carrusel/rosquillas.png'
+import img09 from '../assets/img/Carrusel/pancake.jpg'
+import img10 from '../assets/img/Carrusel/fortuna.jpg'
+import img11 from '../assets/img/Carrusel/boniato.jpg'
+import img12 from '../assets/img/Carrusel/queso.jpg'
+import img13 from '../assets/img/Carrusel/magdalenas.JPG'
+import img14 from '../assets/img/Carrusel/limon.jpg'
+import img15 from '../assets/img/Carrusel/bunuelos.jpg'
+
+export default [img01, img02, img03, img04, img05, img06, img07, img08, img09, img10, img11, img12, img13, img14, img15];
