@@ -1,5 +1,5 @@
 import React from 'react'
-import iconitos from '../../exports/images.js'
+import iconitos from '../../exports/sliderPrincipal.js'
 import { motion } from 'framer-motion'
 import { Text, ImgSlider, Item, Slider, SliderContainer } from './SliderIcon.styled'
 
@@ -7,9 +7,9 @@ function SliderIcon() {
   return (
     <SliderContainer>
      <Slider drag='x' dragConstraints = {{right: 0, left:-100}}>
-        {iconitos.map(item => (
-        <Item>
-          <ImgSlider src={item.dibujo} alt=""/>
+        {iconitos.map((item,index) => (
+        <Item key={index}>
+          <ImgSlider  src={item.dibujo} alt=""/>
           <Text>
                {item.title} 
                

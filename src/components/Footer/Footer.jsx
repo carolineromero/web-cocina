@@ -12,14 +12,20 @@ function Footer() {
         <FooterContainer>
                 <RrssContainer>
                     
-                <a href='https://www.youtube.com/watch?v=15jBo-SDqdg&list=PLu4H1TxATjOMFme68_HFIGL5j04_qId2R'>Hola</a>
+               {/*  <a href='https://www.youtube.com/watch?v=15jBo-SDqdg&list=PLu4H1TxATjOMFme68_HFIGL5j04_qId2R'>Hola</a>*/}
 
-                  {/*    <Link to="https://www.youtube.com/user/somethingiscooking"> {YoutubeIcon} alt="" />
-                        */}
+                {/*   <Link to="https://www.youtube.com/user/somethingiscooking"> fdfgd  </Link> 
+                   */}
                     
-                    <InstaLogo src= {InstaIcon}/>
-                    <FacebookLogo src= {FacebookIcon}/>
-                    <TwitterLogo src= {TwitterIcon}/>
+                   <a href="https://www.instagram.com/somethingiscook/"  target="_blank"> <InstaLogo src= {InstaIcon}/> </a>
+
+                   <a href ="https://www.youtube.com/user/somethingiscooking" target="_blank"> <YoutubeLogo src= {YoutubeIcon}/> </a>
+
+                   <a href ="https://www.facebook.com/SomethingIsCooking/" target="_blank"> <FacebookLogo src= {FacebookIcon}/> </a>
+
+                   <a href ="https://twitter.com/somethingiscook" target="_blank"> <TwitterLogo src= {TwitterIcon}/> </a>
+
+                    
               </RrssContainer>
 
         </FooterContainer>

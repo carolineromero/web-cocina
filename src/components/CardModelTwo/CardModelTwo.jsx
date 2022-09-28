@@ -1,19 +1,22 @@
 import React from 'react'
-import { ContainerModelTwo, ImgModelTwo, ItemRecipeMarcoTwo, TextModelTwo } from './CardModelTwo.styled'
+import { ContainerModelTwo, DescripcionModelTwo, ImgModelTwo, ItemCardTwo, ItemRecipeMarco, ItemRecipeMarcoTwo, NameCardModelTwo, PadreCardTwo, TextModelTwo } from './CardModelTwo.styled'
 
 
 
-function CardModelTwo() {
+function CardModelTwo({img, nombre, descripcion}) {
   return (
-        <ContainerModelTwo>
-                <ItemRecipeMarcoTwo>
-                    <ImgModelTwo src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Full_Moon_Luc_Viatour.jpg/280px-Full_Moon_Luc_Viatour.jpg"/> 
-                </ItemRecipeMarcoTwo>    
-                 <TextModelTwo>
-                  Galletas lalala
-                  </TextModelTwo>
 
-        </ContainerModelTwo>
+      <ItemCardTwo>
+        <PadreCardTwo>
+          <ItemRecipeMarco>
+            <ImgModelTwo src={img} alt="imagen de la receta" />
+          </ItemRecipeMarco>
+        <TextModelTwo>
+          <NameCardModelTwo>{nombre}</NameCardModelTwo>
+          <DescripcionModelTwo>{descripcion}</DescripcionModelTwo>
+        </TextModelTwo>
+        </PadreCardTwo>
+      </ItemCardTwo>
   )
 }
 

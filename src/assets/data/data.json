@@ -1,0 +1,181 @@
+{
+    "categoriesRecipe":[
+        {
+          
+                
+                "id": 1,
+                "nombre": "Salsa de calçots",
+                "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza clásica de la literatura del Latin, que data del a ",
+                "ingredientes":"Tomates, pan, ajo, ñoras ",
+                "procedimiento": "asar tomate, ajo, ñoras y triturar",
+                "tiempo": "1hora y 30 min",
+                "img":"https://4.bp.blogspot.com/-AzMSWG3SviE/VrC30ZiQHYI/AAAAAAAABA8/4o6zT8jno0I/s400/25.jpg" ,
+                "video":"https://www.youtube.com/embed/15jBo-SDqdg"
+            },
+            {
+                "id":2,
+                "nombre": "Salsa roquefort",
+                "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                "ingredientes": "Queso roquefort, nata, cebolla",
+                "procedimiento": "Cocinar todo en la sarten",
+                "tiempo":"30 minutos",
+                "img": "https://1.bp.blogspot.com/--bzmrb4T8mA/WLDvo_o3EbI/AAAAAAAAC-Q/ut4g1p2K-gQqZbbh1vdyI1ubsoOIDlj4ACK4B/s400/salsa%2Broquefort.jpg" ,
+                "video":"https://www.youtube.com/watch?v=x7xEnoMFkVM"
+            },
+            {
+                "id":3,
+                "nombre": "Salsa de guacamole",
+                "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                "ingredientes": "Aguacate, limón, sal, tomate" ,
+                "procedimiento":"Picar todo y juntar" ,
+                "tiempo": "10 minutos",
+                "img":"http://4.bp.blogspot.com/-0H0zyNwDWIQ/VrALbdtE0pI/AAAAAAAAA8M/7mod8349WXc/s400/17.jpg" ,
+                "video":"https://www.youtube.com/watch?v=BMhePfv_zn8"
+        },
+            
+            {
+                "id": 4,
+                "nombre": "Chips de boniato",
+                "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                "ingredientes":"Boniato, sal, aceite ",
+                "procedimiento": "Cortar en láminas",
+                "tiempo": "1hora y 30 min",
+                "img":"https://i.pinimg.com/originals/38/6c/6c/386c6ca21ed14378b2822d39825dddb7.jpg" ,
+                "video":"https://www.youtube.com/watch?v=Kr34RlX2n3Y"
+            },
+            {
+                "id": 5,
+                "nombre": "Galletas de queso",
+                "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                "ingredientes":"Queso, harina, huevos ",
+                "procedimiento": "Mezclar todo y hornear",
+                "tiempo": "45min",
+                "img":"https://1.bp.blogspot.com/-zhTqPxxaQ8o/WMr3WZPD5-I/AAAAAAAADAg/qoMgUnvKUP47mqsrZ4AbJS0X389cQHDPACLcB/s400/galletas%2Bde%2Bqueso.jpg" ,
+                "video":""
+            },
+           
+                        {
+                            "id": 6,
+                            "nombre": "Frapuccino Mocca",
+                            "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                            "ingredientes":"Café, leche, hielo ",
+                            "procedimiento": "Mezclar todo y batir",
+                            "tiempo": "10min",
+                            "img":"https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2018/08/frappuccino-moka.jpg" ,
+                            "video":"https://www.youtube.com/watch?v=KaRa4V3KkHM"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "Té de canela",
+                            "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                            "ingredientes":"Agua, canela, anis",
+                            "procedimiento": "Hervir y colocar en un vaso",
+                            "tiempo": "10min",
+                            "img":"https://dam.cocinafacil.com.mx/wp-content/uploads/2020/04/te-de-canela.jpg" ,
+                            "video":"https://www.youtube.com/watch?v=SvqQHipFaS0"
+                        },
+                    
+                        {
+                            "id": 8,
+                            "nombre": "Batido de galletas",
+                            "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                            "ingredientes":"Leche, galletas, plátano",
+                            "procedimiento": "Mezclar todo en un vaso",
+                            "tiempo": "10min",
+                            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxkXkkOXbMN2wOzHJ34uQ3MviMuM_Dv7Yi9Q&usqp=CAU",
+                            "video":"https://www.youtube.com/watch?v=wKm38xRYBRg"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "Batido de crema de cacahuetes",
+                            "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                            "ingredientes":"cacahuetes, plátano, leche",
+                            "procedimiento": "Mezclar todo en un vaso",
+                            "tiempo": "10min",
+                            "img": "https://www.chocolatenegro.info/contenidos/imagenes/batido-de-cacahuete.jpg",
+                            "video":"https://www.youtube.com/watch?v=Zc4NqaAROj4&list=PLu4H1TxATjOOPAI2Bd4DO81vm43qBdwOd&index=13"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "Chocolate banana smoothie",
+                            "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                            "ingredientes":"Leche, banana, cacao",
+                            "procedimiento": "Mezclar todo en un vaso",
+                            "tiempo": "15min",
+                            "img": "https://i.pinimg.com/736x/72/f6/22/72f62214704a82f15c1b78f6fb02f7d4.jpg",
+                            "video":"https://www.youtube.com/watch?v=SbSTryDL-TE&list=PLu4H1TxATjOOPAI2Bd4DO81vm43qBdwOd&index=7"
+                        }
+                   ,
+                        {
+                            "id": 11,
+                            "nombre": "Zumo verde",
+                            "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                            "ingredientes":"Brocoli, uvas, manzana",
+                            "procedimiento": "Licuar todo y servir",
+                            "tiempo": "20min",
+                            "img": "https://www.conasi.eu/blog/wp-content/uploads/2015/09/Zumo-verde-1.jpg" ,
+                            "video": "https://www.youtube.com/watch?v=odxpcPKw68w"
+                        },
+                        {
+                             "id": 12,
+                             "nombre": "Zumo rico en vitamina C",
+                             "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                             "ingredientes":"Naranjas",
+                             "procedimiento": "Licuar todo y servir",
+                             "tiempo": "10min",
+                             "img": "https://mejorconsalud.as.com/wp-content/uploads/2015/08/zumo-remolacha-limon.jpg",
+                             "video": "https://www.youtube.com/watch?v=DxbUmQozCKE"
+                        },
+                         {
+                            "id": 13,
+                            "nombre": "Ponche de huevo",
+                            "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                            "ingredientes":"Huevo, leche condensada, azúcar",
+                            "procedimiento": "Hervir ingredientes, servir en un vasito",
+                            "tiempo": "40min",
+                            "img":"https://www.hogarmania.com/archivos/201712/ponche-leche-668x400x80xX.jpg",
+                            "video":"https://www.youtube.com/watch?v=jpLyn7cBfjg"
+                         },
+                         {
+                            "id": 14,
+                            "nombre": "Limonada de zanahoria",
+                            "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                            "ingredientes":"Zanahoria, limón, agua",
+                            "procedimiento": "Hervir ingredientes, servir en un vasito",
+                            "tiempo": "30min",
+                            "img": "https://www.oncenoticias.hn/wp-content/uploads/2021/06/WhatsApp-Image-2021-06-02-at-2.33.35-PM-1.jpeg" ,
+                            "video": "https://www.youtube.com/watch?v=_sA3Ih64N40",
+                            "filtro": ["galletas","postres", "dulces"]
+                         },
+                       
+                                    {
+                                    "id": 15,
+                                    "nombre": "Pan de espelta",
+                                    "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                                    "ingredientes":"Harina de espelta, levadura, agua, sal ",
+                                    "procedimiento": "Amasar todos los ingredientes juntos",
+                                    "tiempo": "4 horas",
+                                    "img": "https://www.tictacyummy.com/wp-content/uploads/2020/09/PortadaWeb-4-800x530.jpg",
+                                    "video":"https://www.youtube.com/watch?v=kA9XuIuMq0E"
+                                    },
+                                    {
+                                    "id": 16,
+                                    "nombre": "Coca de vidre",
+                                    "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                                    "ingredientes":"Tomates, pan, ajo, ñoras ",
+                                    "procedimiento": "asar tomate, ajo, ñoras y triturar",
+                                    "tiempo": "1hora y 30 min",
+                                     "video":"https://www.youtube.com/watch?v=iAcMtCec0Hw"
+                                    },
+                                    {
+                                    "id": 17,
+                                    "nombre": "Coca de San Juan",
+                                    "descripcion": "Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza cl´sica de la literatura del Latin, que data del a ",
+                                    "ingredientes":"Harina, huevos, agua, sal , azucar",
+                                    "procedimiento": "amasar todo muy bien, y hornear y reposar",
+                                    "tiempo": "3hora y 30 min",
+                                     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Coca_de_sant_joan.jpg/800px-Coca_de_sant_joan.jpg",
+                                     "video":"https://www.youtube.com/watch?v=EaQnDzIRXKo"
+                                    }
+                                ]}
+ 

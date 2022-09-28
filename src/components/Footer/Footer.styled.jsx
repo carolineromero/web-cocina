@@ -11,6 +11,7 @@ export const RrssContainer = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 1rem;
 `;
 
 export const InstaLogo = styled.img`

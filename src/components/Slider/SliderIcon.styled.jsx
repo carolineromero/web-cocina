@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 
 
 export const SliderContainer = styled(motion.div)`
-    margin:none;
     display: flex;
     justify-content: center;
     &::-webkit-scrollbar {
@@ -31,7 +30,7 @@ export const Item = styled(motion.div)`
     width: 60px;
     height: 60px;
     margin: 20px 20px;
-    background: rgba(0, 0, 0, 0.05);
+    background: rgba(0, 0, 0, 0.1);
     border-radius: 100px;
     box-shadow: 0 0 10px #dfdfdf;
 `;
@@ -47,6 +46,7 @@ export const Text = styled.h2`
     font-family: 'Marvel', sans-serif;
     font-size: 19px;
     margin-top: 15px;
+    
     
     
 `;

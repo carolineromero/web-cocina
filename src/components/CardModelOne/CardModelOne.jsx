@@ -1,17 +1,31 @@
 import React from 'react'
-import { ContainerModelOne, ImgModelOne, ItemRecipeMarco, TextModelOne } from './CardModelOne.styled'
+import { ImgModelOne, ItemCardOne, ItemRecipeMarco, NameCardModelOne, PadreCardOne, TextModelOne } from './CardModelOne.styled'
 
-function CardModelOne() {
+
+
+function CardModelOne({img, nombre}) {
   return (
-    <ContainerModelOne>
+
+    <ItemCardOne>
+      <PadreCardOne>
         <ItemRecipeMarco>
-              <ImgModelOne src="https://pbs.twimg.com/media/EwylniZXEAMnbIv?format=jpg&name=large"
+          <ImgModelOne src={img} alt="imagen de la receta" />
+        </ItemRecipeMarco>
+      <TextModelOne>
+        <NameCardModelOne> {nombre}</NameCardModelOne>  
+      </TextModelOne>  
+      </PadreCardOne>
+    </ItemCardOne>
+
+    /* <ContainerModelOne>
+        <ItemRecipeMarco>
+              <ImgModelOne src={img}
               alt="First slide"/> 
         </ItemRecipeMarco>
         <TextModelOne>
-              Patatas Hasselback
+              {nombre}
         </TextModelOne>
-    </ContainerModelOne>
+    </ContainerModelOne> */
     
   )
 }

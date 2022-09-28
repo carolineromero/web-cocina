@@ -29,13 +29,16 @@ export const Text = styled.h1`
     font-family: 'Marvel', sans-serif;
     font-size: 25px;
     letter-spacing: 0.1em;
-`;
+    padding: 2rem;
+   
+    `;
 
 
 export const Buscador = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 2rem;
 `;
 
 

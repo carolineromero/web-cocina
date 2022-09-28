@@ -4,9 +4,11 @@ import SliderIcon from '../components/Slider/SliderIcon'
 import Anuncio from '../components/Anuncio/Anuncio'
 import UncontrolledExample from '../components/Carrusel/Carrusel'
 import '../assets/styles/index.css';
-import CardModelOne from '../components/CardModelOne/CardModelOne'
-import CardModelTwo from '../components/CardModelTwo/CardModelTwo'
 import Footer from '../components/Footer/Footer'
+import ListCardModelOne from '../components/ListCardModelOne/ListCardModelOne'
+import ListContainerTwo from '../components/ListCardModelTwo/ListCardModelTwo'
+
+
 
 
 
@@ -20,9 +22,11 @@ function Home() {
     <SliderIcon/>
     <Anuncio/>
     <h3>Recetas destacadas</h3>
-    <CardModelOne/>
+    <ListCardModelOne/>
     <hr width="75%" color="black"/>
-    <CardModelTwo/>
+    <ListContainerTwo/>
+  
+   
     <Footer/>
     
    

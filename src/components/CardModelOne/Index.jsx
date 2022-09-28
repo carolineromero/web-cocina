@@ -1,1 +1,1 @@
-export {ContainerModelOne} from './CardModelOne'
+export {ItemCardOne} from './CardModelOne'
