@@ -1,18 +1,16 @@
 import React from 'react'
-import BurgerIcon from '../../assets/img/Header/burger.png';
 import LupaIcon from '../../assets/img/Header/lupa.png';
-import { Burger, BurgerLogo, Buscador, HeaderContainer, InputBuscador, Lupan, Text } from './Header.styled'
+import { Buscador, HeaderContainer, InputBuscador, Lupan, Text } from './Header.styled'
 
 function Header() {
   return (
 
     <HeaderContainer>
-        <BurgerLogo>
-              {/*  <Burger src={BurgerIcon} /> */}
+       
               <Text>
                   SOMETHING IS COOKING
               </Text>
-        </BurgerLogo>
+        
         <Buscador>
        
                 <Lupan src={LupaIcon} />

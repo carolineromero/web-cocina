@@ -1,12 +1,13 @@
 import React from 'react';
 import { AnuncioContainer, AnuncioTitulo } from './Anuncio.styled';
+import AnuncioImg from '../../assets/img/publi.png'
 
 function Anuncio() {
   return (
     <AnuncioContainer>
-        <AnuncioTitulo>
-            <h2>Aquí va un anuncio</h2>
-        </AnuncioTitulo>
+        <AnuncioTitulo src={AnuncioImg} />
+            
+       
     </AnuncioContainer>
   )
 }

@@ -6,7 +6,8 @@ import { Text, ImgSlider, Item, Slider, SliderContainer } from './SliderIcon.sty
 function SliderIcon() {
   return (
     <SliderContainer>
-     <Slider drag='x' dragConstraints = {{right: 0, left:-100}}>
+     <Slider 
+     >
         {iconitos.map((item,index) => (
         <Item key={index}>
           <ImgSlider  src={item.dibujo} alt=""/>

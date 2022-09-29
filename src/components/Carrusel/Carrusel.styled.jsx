@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const CarruselContainer = styled.div`
+
     width: 100%;
     margin: 0px 60px;
 `;

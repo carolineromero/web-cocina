@@ -1,0 +1,1 @@
+export {RecipeContainer} from './DetailRecipe'
