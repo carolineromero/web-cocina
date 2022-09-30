@@ -1,5 +1,5 @@
 import axios from "axios";
-const baseURL = "http://localhost:5000/categoriesRecipe";
+const baseURL = "http://localhost:3000/categoriesRecipe";
 
 export const recipesServices = {
   getAllRecipes() {
