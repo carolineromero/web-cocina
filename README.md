@@ -26,6 +26,8 @@ Y ahora, estoy creando esta web, para poder compartir mis recetas de forma escri
 
 *Proyecto en proceso de desarrollo*   
 
+## 📋 [Presentación del proyecto](https://www.canva.com/design/DAFNi5OKi_w/7oM3yrKq2Um6uIjQ2tPPAQ/view?utm_content=DAFNi5OKi_w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ***
 
 ## 🖼️ Captura de pantalla
