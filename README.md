@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+###### Something is Cooking
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![logo-somethingIsCooking](src/assets/img/readme/logo.png)
+ https://somethingiscooking.netlify.app/
 
-## Available Scripts
+***
 
-In the project directory, you can run:
+## 💻 Tabla de Contenidos
+1. [Información General](#información-general)
+2. [Capturas de Pantalla](#capturas-de-pantalla)
+3. [Características técnicas de diseño](#🎨-características-técnicas-de-diseño)
+4. [Tecnologías](#🛠️-tecnologías)
+5. [Instalación](#instalación)
+6. [Hoja de ruta](#hoja-de-ruta)
+7. [Enlaces de interés](#🔗-enlaces-de-interés)
+8. [Contacto](#🤝-contacto)
 
-### `npm start`
+***
+## ℹ️ Información General
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Something is Cooking** es un proyecto personal que llevo varios años creando.  En él uno dos de mis grandes pasiones: el mundo audiovisual y la cocina. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Grabo recetas de cocina, y las subo a un canal de YouTube, y a redes sociales.
 
-### `npm test`
+Y ahora, estoy creando esta web, para poder compartir mis recetas de forma escrita, y así tener un alcance mayor.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*Proyecto en proceso de desarrollo*   
 
-### `npm run build`
+***
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🖼️ Captura de pantalla
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![screen](src/assets/img/readme/screenshot.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+***
+## 🎨 Características técnicas de diseño 
+### Gama de colores: 
+- ![#D9D9D9](https://via.placeholder.com/15/D9D9D9/000000?text=+) `#D9D9D9`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- ![#82889e](https://via.placeholder.com/15/82889e/000000?text=+) `#82889e`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- ![#f03c15](https://via.placeholder.com/15/fff/000000?text=+) `#fff`
 
-## Learn More
+### Fuente de letra: 
+- Marvel
+- Jockey 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+***
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🛠️ Tecnologías
+Lista de tecnologías utilizadas en el desarrollo del proyecto:
+* React js. (18.2)
+* Axios (0.27.2)
+* Json-server (0.17.0)
+* Syled Components (5.3.5)
+* Bootstrap (5.2)
 
-### Code Splitting
+***
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🚀 Instalación
 
-### Analyzing the Bundle Size
+1.  Ingresar en Visual Studio Code
+2.  Clonar el proyecto con el comando: 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+ ``` 
+git clone https://github.com/carolineromero/
+```
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+3. Abrir una nueva terminal y poner: 
+ ``` 
+json-server --watch "src/assets/data/data.json"
+```
+4. Abrir otra terminal e instalar las dependencias:
+ ``` 
+npm i
+```
 
-### Advanced Configuration
+5. Ejecutar el siguiente comando, para abrir en el navegador
+ ``` 
+npm start
+```
+***
+## 🗺️ Hoja de ruta
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+En esta primera entrega, presento una web responsive, capaz de leer datos de un archivo json.
 
-### Deployment
+En futuras actualizaciones las features a realizar son:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* Menú slider funcional, y con subcategorias.
+* Buscador
+* Paginación
+* Api externa
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔗 Enlaces de interés
+
+* [Prototipo figma](https://github.com/carolineromero)  
+* [Presentación](https://github.com/carolineromero)  
+* [Proyecto web]()
+
+## 🤝 Contacto
+
+Carolina Romero - carolinaroomero@gmail.com

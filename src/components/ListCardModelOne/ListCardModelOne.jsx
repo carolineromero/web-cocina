@@ -19,7 +19,7 @@ const [recipesApi, setRecipesApi] = useState([]);
     return filterRecipes
 } */
     useEffect (()=>{
-        axios.get("http://localhost:3000/categoriesRecipe")
+        axios.get("http://localhost:5000/categoriesRecipe")
         .then ((res)=> {
             setRecipesApi(res.data)
         })
