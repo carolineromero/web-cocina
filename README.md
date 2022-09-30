@@ -1,7 +1,7 @@
 ###### Something is Cooking
 
 ![logo-somethingIsCooking](src/assets/img/readme/logo.png)
- https://somethingiscooking.netlify.app/
+
 
 ***
 
@@ -38,13 +38,10 @@ Y ahora, estoy creando esta web, para poder compartir mis recetas de forma escri
 ***
 ## 🎨 Características técnicas de diseño 
 ### Gama de colores: 
-- ![#D9D9D9](https://via.placeholder.com/15/D9D9D9/000000?text=+) `#D9D9D9`
+![colors](https://user-images.githubusercontent.com/105285220/193171403-1a246a7a-53af-4b21-8134-73c08111f226.png)
 
-- ![#82889e](https://via.placeholder.com/15/82889e/000000?text=+) `#82889e`
 
-- ![#f03c15](https://via.placeholder.com/15/fff/000000?text=+) `#fff`
-
-### Fuente de letra: 
+### Fuentes de letra: 
 - Marvel
 - Jockey 
 
@@ -66,7 +63,7 @@ Lista de tecnologías utilizadas en el desarrollo del proyecto:
 2.  Clonar el proyecto con el comando: 
 
  ``` 
-git clone https://github.com/carolineromero/
+git clone https://github.com/carolineromero/web-recetas.git
 ```
 
 
@@ -94,14 +91,17 @@ En futuras actualizaciones las features a realizar son:
 * Buscador
 * Paginación
 * Api externa
+* Base de datos
+* Testing
 
 
 ## 🔗 Enlaces de interés
 
-* [Prototipo figma](https://github.com/carolineromero)  
-* [Presentación](https://github.com/carolineromero)  
-* [Proyecto web]()
+* [Prototipo figma](https://www.figma.com/file/jetl8b4oaoR1oBQNa2jWFT/Something-is-Cooking?node-id=0%3A1)  
+* [Proyecto web](https://somethingiscooking.netlify.app/)
 
 ## 🤝 Contacto
 
 Carolina Romero - carolinaroomero@gmail.com
+
+[Linkedin](https://www.linkedin.com/in/carolinaroomero/)
